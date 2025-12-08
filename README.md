@@ -18,7 +18,7 @@ O Organizador de Compras do Mês é um aplicativo simples, porém bastante funci
 
 O objetivo do software é, além de agilizar na hora da compra, reduzir esquecimentos, evitar compras duplicadas e facilitar esta parte da rotina, especialmente para pessoas com pouco tempo e que desejam ter mais controle do próprio consumo.
 
-## Persona
+## Personas
 
 ![Persona1](images/Persona1.jpeg)
 
