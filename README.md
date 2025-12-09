@@ -12,14 +12,12 @@
 
 ---
 
-## Visão de Produto
+![Slide1](images/Slide01.jpg)
 
-O Organizador de Compras do Mês é um aplicativo simples, porém bastante funcional, e será criado para auxiliar pessoas a organizarem suas compras recorrentes de maneira rápida e prática. O sistema permitirá cadastrar itens, classificá-los por tipo (alimentação, farmácia, higiene, limpeza, pet, outros itens), visualizar a lista completa e marcar o que já foi comprado, deixando assim apenas os itens pendentes de adquirir.
+![Slide2](images/Slide02.jpg)
 
-O objetivo do software é, além de agilizar na hora da compra, reduzir esquecimentos, evitar compras duplicadas e facilitar esta parte da rotina, especialmente para pessoas com pouco tempo e que desejam ter mais controle do próprio consumo.
+![Slide3](images/Slide03.jpg)
 
-## Personas
+![Slide4](images/Slide04.jpg)
 
-![Persona1](images/Persona1.jpeg)
-
-![Persona2](images/Persona2.jpeg)
+![Slide5](images/Slide05.jpg)
